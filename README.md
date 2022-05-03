@@ -1,21 +1,18 @@
-### Hi there 👋, I'm Provat
-#### I am professional web application developer 
-![I am professional web application developer ]
+### Hi there 👋, I'm Ashikur Rahman Provat
+#### I am professional web application developer
+![I am professional web application developer](https://media-exp1.licdn.com/dms/image/C4D16AQHYg_qgs2Y_gw/profile-displaybackgroundimage-shrink_350_1400/0/1646729932711?e=1657152000&v=beta&t=y77990lARxEohsOn5EOpZMqrvVgfySVGE0OpGzibQW0)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I strive to create sites that are simple, usable, creative, effective, and enjoyable for my clients. My client's site is SEO friendly, and I work extremely hard on cyber security to ensure that the site is secure, based on my extensive knowledge. I am capable of providing the highest level of service.
 
-Skills: php / HTML / CSS
+Skills:  HTML / CSS/ PHP / python
 
-- 🔭 I’m currently working on DarpanIT. 
-- 🌱 I’m currently learning php. 
+- 🔭 I’m currently working on Durjoysoft 
+- 🌱 I’m currently learning Python 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Provat-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashikur-rahman-provat-14110131//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Provat-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/provat_14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashikur-rahman-provat-14110131//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Provat_14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arprovat.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Provat-14)](https://github.com/anuraghazra/github-readme-stats)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Provat-14&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Provat-14)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Provat-14)  
