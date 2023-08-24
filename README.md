@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ashikur Rahman Provat
 #### I am professional web application developer
-![I am professional web application developer](https://media-exp1.licdn.com/dms/image/C4D16AQHYg_qgs2Y_gw/profile-displaybackgroundimage-shrink_350_1400/0/1646729932711?e=1657152000&v=beta&t=y77990lARxEohsOn5EOpZMqrvVgfySVGE0OpGzibQW0)
+![I am professional web application developer]
 
 I strive to create sites that are simple, usable, creative, effective, and enjoyable for my clients. My client's site is SEO friendly, and I work extremely hard on cyber security to ensure that the site is secure, based on my extensive knowledge. I am capable of providing the highest level of service.
 
